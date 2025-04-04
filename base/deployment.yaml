@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: ivolve-app
-          image: amrawad12/my-springboot-app:jenkins_34
+          image: amrawad12/my-springboot-app:jenkins_36
           ports:
             - containerPort: 8081  # Must match Spring Boot app port
